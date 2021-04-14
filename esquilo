@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,A
-https://www.dropbox.com/s/3urc05buyau2mg9/cameras.m3u?dl=0
+#EXTINF:0,quintal
+rtsp://quintal:esquilo@192.168.0.114/stream1
+#EXTINF:0,varanda
+rtsp://varanda:esquilo@192.168.0.183/stream1
